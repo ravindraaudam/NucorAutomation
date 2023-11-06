@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Fri Nov 03 12:36:00 IST 2023","Fri Nov 03 12:37:20 IST 2023","80373","","Automation POC for Nucor Application","","","","To create new incident with Nucor employee and capture incident number",""
+"passed","Fri Nov 03 12:35:33 IST 2023","Fri Nov 03 12:36:00 IST 2023","27056","","Automation POC for Nucor Application","","","","To check if Incidents page is loaded successfully",""
+"broken","Fri Nov 03 12:37:20 IST 2023","Fri Nov 03 12:39:21 IST 2023","120228","","Automation POC for Nucor Application","","","","To create new incident with Non-Nucor employee and capture incident number",""
+"passed","Fri Nov 03 12:34:21 IST 2023","Fri Nov 03 12:35:33 IST 2023","71882","","Automation POC for Nucor Application","","","","To check whether user is navigated to correct URL",""

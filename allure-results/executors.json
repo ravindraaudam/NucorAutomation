@@ -1,0 +1,4 @@
+{"name":"Ravindra", // this will print the tester name on the report
+"buildName":"Give the project Name", // if this attribute is not given that **Unknown** is displayed
+"type":"jenkins" // if this attribute is not given we will be getting a user icon next to the name else a hat icon will be  displayed
+}
