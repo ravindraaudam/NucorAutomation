@@ -27,7 +27,7 @@ describe('Automation POC for Nucor Application', () => {
 
   it('To check if Incidents page is loaded successfully', async () => {
     
-    addSeverity('Normal');
+    addSeverity('Critical');
     await Nucor_LoginPage.openUrl();
     await MiscFunctions.brwSyncLow();
     await Nucor_HomePage.navigateToMenu();
