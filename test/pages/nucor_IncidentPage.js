@@ -13,7 +13,7 @@ class Nucor_IncidentPage extends Nucor_IncidentPageLocators{
         await newIncidentBtn.waitUntil(() => newIncidentBtn.isDisplayed());
         await elemLoadHigh();
         await newIncidentBtn.click();
-        console.log('Clicked on New Incident Button');
+        console.log('Clicked on New Incident button');
     }
 }
 
